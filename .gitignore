@@ -3,3 +3,5 @@
 ################################################################################
 
 /.vs/PathfinderCharacter/v15
+/PathfinderCharacter/bin/Debug
+/PathfinderCharacter/obj/Debug
